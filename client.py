@@ -1,7 +1,7 @@
 import socket
 import threading
 
-SERVER = "your-server-ip-or-domain"  # مثل tic-tac-toe-online.onrender.com
+SERVER = "tic-tac-toe-online-r5kl.onrender.com" 
 PORT = 5555
 
 def listen(sock):
